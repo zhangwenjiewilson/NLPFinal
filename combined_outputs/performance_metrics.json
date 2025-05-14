@@ -1,0 +1,16 @@
+{
+  "run_start": "2025-05-13T16:31:26",
+  "pdf": {
+    "file_count": 42,
+    "duration_sec": 0.8987589579992346
+  },
+  "images": {
+    "file_count": 42,
+    "duration_sec": 0.5972274580017256
+  },
+  "json": {
+    "file_count": 42,
+    "duration_sec": 0.14021458400020492
+  },
+  "run_end": "2025-05-13T16:31:28"
+}

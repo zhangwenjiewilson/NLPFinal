@@ -1,0 +1,63 @@
+{
+  "document": "selected_images_merged.pdf",
+  "content_A": {
+    "precision": 0.12848689771766694,
+    "recall": 0.12922815327624948,
+    "F1": 0.1288564594750068,
+    "BLEU-4": 0.45340902228395435,
+    "local_align_score": 950
+  },
+  "content_B": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "F1": 0.0,
+    "BLEU-4": 0.0,
+    "local_align_score": 0
+  },
+  "structure_A": {
+    "headings_count": 0,
+    "headings_percent": 0.0,
+    "figures_count": 0,
+    "tables_count": 0
+  },
+  "structure_B": {
+    "headings_count": 0,
+    "headings_percent": 0.0,
+    "figures_count": 0,
+    "tables_count": 0
+  },
+  "coherence_A": {
+    "pct_chunks_end_at_sentence": 38.20754716981132,
+    "pct_sentences_split": 13.873626373626374,
+    "length_stats": {
+      "mean_tokens": 92.93427230046949,
+      "std_tokens": 114.98105742770615,
+      "max_tokens": 834,
+      "mean_chars": 476.1643192488263,
+      "std_chars": 576.0095250941467,
+      "max_chars": 3820
+    }
+  },
+  "coherence_B": {
+    "pct_chunks_end_at_sentence": 100.0,
+    "pct_sentences_split": 0.0,
+    "length_stats": {
+      "mean_tokens": 0.0,
+      "std_tokens": 0.0,
+      "max_tokens": 0,
+      "mean_chars": 0.0,
+      "std_chars": 0.0,
+      "max_chars": 0
+    }
+  },
+  "runtime_A": {
+    "total_time_s": 0.0007395419997919817,
+    "time_per_page_s": 1.760814285219004e-05,
+    "pages_per_second": 56791.906358007735
+  },
+  "runtime_B": {
+    "total_time_s": 0.00011670799722196534,
+    "time_per_page_s": 2.7787618386182225e-06,
+    "pages_per_second": 359872.5108796167
+  }
+}

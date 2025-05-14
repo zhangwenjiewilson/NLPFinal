@@ -1,0 +1,6 @@
+Document,CharCoverage_A (%),CharCoverage_B (%),TokenCoverage_A (%),TokenCoverage_B (%),CER_A (%),CER_B (%),ChunksEndAtSentence_A (%),ChunksEndAtSentence_B (%),SentencesSplit_A (%),SentencesSplit_B (%),ChunkMeanTokens_A,ChunkStdTokens_A,ChunkMaxTokens_A,ChunkMeanTokens_B,ChunkStdTokens_B,ChunkMaxTokens_B,HeadingsCount_A,HeadingsCount_B,HeadingsPct_A (%),HeadingsPct_B (%),NonEmptyChunks_A,NonEmptyChunks_B,FigureCount_A,FigureCount_B,TableCount_A,TableCount_B
+dummy,100.0,0.0,100.0,0.0,0.0,100.0,100.0,,0.0,,3.0,0.0,3,0.0,0.0,0,1,1,100.0,100.0,1,0,0,0,0,0
+pdf,105.28,99.28,103.71,99.48,49.25,0.78,55.17,22.78,8.47,8.06,70.03448275862068,61.1377657192856,237,24.632911392405063,44.86468465840907,161,4,7,13.79,8.75,29,79,6,0,0,3
+10-page-sample,90.71,99.07,91.79,101.29,18.58,1.67,37.14,22.07,11.11,80.73,47.08571428571429,38.13088094488053,90,12.606896551724137,5.06277360500204,17,13,14,37.14,9.66,35,145,0,21,0,0
+10MB-TESTFILE.ORG,47.96,0.0,25.0,0.0,55.76,100.0,10.0,,100.0,,1.0,0.0,1,0.0,0.0,0,0,20,0.0,100.0,10,0,10,30,0,0
+2312.10997v5,107.81,100.17,109.25,100.22,56.68,0.36,56.72,43.63,6.87,7.3,114.74626865671642,193.4027332083113,1051,106.31372549019608,123.58290702864262,464,34,2,16.92,1.12,201,204,6,6,3,0

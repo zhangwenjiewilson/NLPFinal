@@ -1,0 +1,43 @@
+{
+    "document": "0a3e36ce723bcf3af01ec65285a82dce5310eb7a5d296a6427bd33d23cb5b0ea.pdf",
+    "pages": [
+        {
+            "page_number": 1,
+            "regions": [
+                {
+                    "bbox": [
+                        1074,
+                        2025,
+                        2081,
+                        2915
+                    ],
+                    "label": "Figure",
+                    "score": 0.9935333728790283,
+                    "text": "==y\n\nlan\n\n\u2018s Nick\nP |\n) \u201d * | ooo \u2014"
+                },
+                {
+                    "bbox": [
+                        1131,
+                        485,
+                        2045,
+                        570
+                    ],
+                    "label": "Title",
+                    "score": 0.9320783019065857,
+                    "text": "Q. Tell us about your experience prior to joining\nSuper Cheap Auto?"
+                },
+                {
+                    "bbox": [
+                        1127,
+                        1081,
+                        1846,
+                        1130
+                    ],
+                    "label": "Title",
+                    "score": 0.8459529280662537,
+                    "text": "What are your major responsibilities?"
+                }
+            ]
+        }
+    ]
+}
